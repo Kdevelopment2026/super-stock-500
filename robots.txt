@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kdevelopment2026.github.io/super-stock-500/sitemap.xml

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://kdevelopment2026.github.io/super-stock-500/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <image:image><image:loc>https://kdevelopment2026.github.io/super-stock-500/assets/shots/hero.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kdevelopment2026.github.io/super-stock-500/assets/shots/damage.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kdevelopment2026.github.io/super-stock-500/assets/shots/rain.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kdevelopment2026.github.io/super-stock-500/assets/shots/canyon.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kdevelopment2026.github.io/super-stock-500/assets/shots/harbour.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://kdevelopment2026.github.io/super-stock-500/support.html</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://kdevelopment2026.github.io/super-stock-500/privacy.html</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+</urlset>
